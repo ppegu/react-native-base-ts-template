@@ -1,7 +1,7 @@
 {
-  "name": "react-native-template-typescript",
+  "name": "react-native-base-ts-template",
   "version": "0.0.1",
-  "description": "Clean and minimalist React Native template for a quick start with TypeScript.",
+  "description": "React native typescript template using native-base and react navigation.",
   "scripts": {
     "test": "exit 0"
   },
@@ -11,19 +11,20 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emin93/react-native-template-typescript.git"
+    "url": "git+https://github.com/ppegu/react-native-base-ts-template.git"
   },
   "keywords": [
     "react-native",
     "typescript",
+    "native-base",
     "jest",
     "template",
     "boilerplate"
   ],
-  "author": "Emin Khateeb <emin@emin.ch>",
+  "author": "Pran Pegu <pranpegu997@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emin93/react-native-template-typescript/issues"
+    "url": "https://github.com/ppegu/react-native-base-ts-template/issues"
   },
-  "homepage": "https://github.com/emin93/react-native-template-typescript#readme"
+  "homepage": "https://github.com/ppegu/react-native-base-ts-template#readme"
 }
