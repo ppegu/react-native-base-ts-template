@@ -2,6 +2,9 @@
 #
 .DS_Store
 
+/android 
+/ios
+
 # Xcode
 #
 build/
@@ -20,7 +23,6 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
-
 # Android/IntelliJ
 #
 build/
