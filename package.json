@@ -1,5 +1,5 @@
 {
-  "name": "react-native-base-ts-template",
+  "name": "react-native-template-type-base",
   "version": "0.0.1",
   "description": "React native typescript template using native-base and react navigation.",
   "scripts": {
